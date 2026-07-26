@@ -70,9 +70,5 @@
   </tr>
 </table>
 <br>
-<div align="center">
-  <a href="https://github.com/V-Medeiros?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver_todos_os_repositórios-7C3AED?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </div>
 
