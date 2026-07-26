@@ -41,10 +41,10 @@
 
 <div align="center">
   <a href="https://github.com/V-Medeiros/Vesta">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=V-Medeiros&repo=SEU_REPOSITORIO_1&theme=midnight-purple&hide_border=true">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=V-Medeiros&repo=Vesta&theme=midnight-purple&hide_border=true">
   </a>
   <a href="https://github.com/luis-sandri/CampusTrack">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=V-Medeiros&repo=SEU_REPOSITORIO_2&theme=midnight-purple&hide_border=true">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=luis-sandri&repo=CampusTrack&theme=midnight-purple&hide_border=true">
   </a>
 </div>
 
