@@ -42,22 +42,26 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 Vesta</h3>
-      <p>Adicione aqui uma breve descrição do projeto.</p>
+      <h3>🔥 Vesta</h3>
+      <p>SaaS de produtividade gamificado em desenvolvimento, com sessões de foco,
+        tarefas, streak diário e uma chama animada que transforma consistência em
+        progresso visual..</p>
       <a href="https://github.com/V-Medeiros/Vesta">
         <img src="https://img.shields.io/badge/Ver_repositório-7C3AED?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 CampusTrack</h3>
-      <p>Adicione aqui uma breve descrição do projeto.</p>
+      <p>Sistema web para gerenciar instituições, espaços físicos e usuários de
+        campus, com diferentes níveis de acesso, mapas interativos, eventos e
+        favoritos..</p>
       <a href="https://github.com/luis-sandri/CampusTrack">
         <img src="https://img.shields.io/badge/Ver_repositório-7C3AED?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
   </tr>
 </table>
-
+<br>
 <div align="center">
   <a href="https://github.com/V-Medeiros?tab=repositories">
     <img src="https://img.shields.io/badge/Ver_todos_os_repositórios-7C3AED?style=for-the-badge&logo=github&logoColor=white">
