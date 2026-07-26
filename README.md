@@ -39,21 +39,30 @@
 
 ## Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/V-Medeiros/Vesta">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=V-Medeiros&repo=Vesta&theme=midnight-purple&hide_border=true">
-  </a>
-  <a href="https://github.com/luis-sandri/CampusTrack">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=luis-sandri&repo=CampusTrack&theme=midnight-purple&hide_border=true">
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 Vesta</h3>
+      <p>Adicione aqui uma breve descrição do projeto.</p>
+      <a href="https://github.com/V-Medeiros/Vesta">
+        <img src="https://img.shields.io/badge/Ver_repositório-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 CampusTrack</h3>
+      <p>Adicione aqui uma breve descrição do projeto.</p>
+      <a href="https://github.com/luis-sandri/CampusTrack">
+        <img src="https://img.shields.io/badge/Ver_repositório-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/V-Medeiros?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver_todos_os_repositórios-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios">
+    <img src="https://img.shields.io/badge/Ver_todos_os_repositórios-7C3AED?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
-
 
 
 <div align="center">
