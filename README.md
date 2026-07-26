@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Olá!
+# 🐸
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software;Transformando+ideias+em+c%C3%B3digo;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
@@ -68,7 +68,3 @@
   </a>
 </div>
 
-
-<div align="center">
-  <strong>🐸</strong>
-</div>
