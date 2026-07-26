@@ -14,7 +14,7 @@
 ---
 
 
-## Tecnologias e ferramentas
+## Tecnologias
 
 ### Linguagens
 
