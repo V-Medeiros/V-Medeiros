@@ -51,14 +51,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔥 Vesta</h3>
+      <h3>Vesta</h3>
       <p>Saas de foco gamificado que auxilia o usuário a se manter longe de aplicativos que distraem, transformando o tempo de concentração em uma Fogueira virtual que cresce.</p>
       <a href="https://github.com/V-Medeiros/Vesta">
         <img src="https://img.shields.io/badge/Ver_repositório-7C3AED?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 CampusTrack</h3>
+      <h3>CampusTrack</h3>
       <p>Sistema web para gerenciar instituições, espaços físicos e usuários de
         campus, com diferentes níveis de acesso, mapas interativos e eventos </p>
       <a href="https://github.com/luis-sandri/CampusTrack">
