@@ -34,7 +34,7 @@
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-339933?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ## Projetos em destaque
