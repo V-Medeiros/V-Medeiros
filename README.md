@@ -43,7 +43,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Vesta</h3>
-      <p>Saas de foco gamificado que auxilia o usuário a se manter longe de aplicativos que distraem, transformando o tempo de concentração em uma Fogueira virtual que cresce.</p>
+      <p>Programa de foco gamificado que auxilia o usuário a se manter longe de aplicativos que distraem, transformando o tempo de concentração em uma Fogueira virtual que cresce.</p>
       <a href="https://github.com/V-Medeiros/Vesta">
         <img src="https://img.shields.io/badge/Ver_repositório-7C3AED?style=for-the-badge&logo=github&logoColor=white">
       </a>
