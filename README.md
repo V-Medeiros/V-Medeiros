@@ -11,7 +11,7 @@
 </div>
 
 
-## Tecnologias
+## Stack Atual
 
 ### Linguagens
 
