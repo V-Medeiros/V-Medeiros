@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorme2806@gmail.com)
-[![portfolio](https://img.shields.io/badge/portfolio-EA4335?style=for-the-badge&logo=github&logoColor=purple)](https://meoulsite.vercel.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://meoulsite.vercel.app/)
 
 </div>
 
